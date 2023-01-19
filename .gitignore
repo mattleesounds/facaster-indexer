@@ -1,0 +1,8 @@
+.env
+.DS_Store
+/dist
+/ignore
+/node_modules
+# Supabase
+**/supabase/.branches
+**/supabase/.temp
